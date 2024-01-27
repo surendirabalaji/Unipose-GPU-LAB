@@ -1,0 +1,1 @@
+losses[j] = self.criterion(heat, heatmap_var[0:,j])
